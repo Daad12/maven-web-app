@@ -94,7 +94,7 @@
 	</dependencies>
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
+	      <id>nexus 1</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url>http://15.223.49.174:8081/repository/TESLA-RES/</url>
 	    </repository>
